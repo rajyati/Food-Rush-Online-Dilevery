@@ -7,27 +7,27 @@
  */
 
 :root {
-    --bs-blue: #0d6efd;
-    --bs-indigo: #6610f2;
-    --bs-purple: #6f42c1;
-    --bs-pink: #d63384;
-    --bs-red: #dc3545;
-    --bs-orange: #fd7e14;
+    --bs-blue: #357eeb;
+    --bs-indigo: #7838df;
+    --bs-purple: #5f17e4;
+    --bs-pink: #ec0b7c;
+    --bs-red: #ee0c23;
+    --bs-orange: #a35414;
     --bs-yellow: #ffc107;
     --bs-green: #198754;
     --bs-teal: #20c997;
     --bs-cyan: #0dcaf0;
-    --bs-white: #fff;
-    --bs-gray: #6c757d;
-    --bs-gray-dark: #343a40;
+    --bs-white: #f0e5e5;
+    --bs-gray: #527b9e;
+    --bs-gray-dark: #375472;
     --bs-primary: #0d6efd;
     --bs-secondary: #6c757d;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
-    --bs-warning: #ffc107;
-    --bs-danger: #dc3545;
-    --bs-light: #f8f9fa;
-    --bs-dark: #212529;
+    --bs-warning: #e6ad03;
+    --bs-danger: #e4192e;
+    --bs-light: #c6cfd8;
+    --bs-dark: #233d57;
     --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))
@@ -51,8 +51,8 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
-    background-color: #fff;
+    color: #090a0af8;
+    background-color: #f3eeee;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
 }
@@ -210,7 +210,7 @@ small {
 .mark,
 mark {
     padding: .2em;
-    background-color: #fcf8e3
+    background-color: #fffaeb
 }
 
 sub,
